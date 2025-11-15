@@ -275,7 +275,7 @@ const ProductsPage: React.FC = () => {
               <th>Marca</th>
               <th>Stock</th>
               <th>Costo</th>
-              <th>x10 U.</th>
+              <th>x 10 U.</th>
               <th>x 100 U.</th>
               <th>Venta</th>
               <th>Ventas</th>
